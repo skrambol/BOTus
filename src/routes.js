@@ -4,7 +4,6 @@ import { red, green, blue } from 'chalk';
 const log = debug('app-routes');
 
 // Routes
-const userRoutes = require('./api/user/user.routes').default;
 
 export default (app) => {
   // logger
@@ -14,5 +13,4 @@ export default (app) => {
   });
 
   // Insert routes below
-  app.use('/api/user', userRoutes);
 };
