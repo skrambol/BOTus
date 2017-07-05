@@ -1,11 +1,11 @@
 {
-  "name": "node-boilerplate",
+  "name": "BOTus",
   "version": "0.1.0",
-  "description": "node-boilerplate API Documentation",
-  "title": "node-boilerplate",
-  "url" : "https://node-boilerplate.herokuapp.com/api",
+  "description": "mabootyng bot",
+  "title": "BOTus",
+  "url" : "https://BOTus.herokuapp.com/api",
   "header": {
-    "title": "node-boilerplate",
+    "title": "BOTus",
     "filename": "header.md"
   },
   "footer": {
